@@ -1,0 +1,6 @@
+name = "Text-CSS-Readjustment"
+# badges = ["travis"]
+authority="cpan:SATOSIN"
+
+module_maker="ModuleBuildTiny"
+
